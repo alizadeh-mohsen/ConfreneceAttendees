@@ -1,0 +1,6 @@
+@ConfreneceAttendees_HostAddress = http://localhost:5161
+
+GET {{ConfreneceAttendees_HostAddress}}/v1/
+Accept: application/json
+
+###
